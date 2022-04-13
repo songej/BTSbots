@@ -4,7 +4,7 @@
 
 본문 내용 작성
 ** 볼드체 **
-http://naver.com
+<http://naver.com>
 
 1. 첫번째 순서
 2. 두번째 순서
